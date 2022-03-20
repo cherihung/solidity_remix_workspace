@@ -1,3 +1,3 @@
-REMIX EXAMPLE PROJECT
+SOLIDITY REMIX PROJECT
 
 Workspace code backup.
